@@ -1,0 +1,76 @@
+<msg time='2020-02-06T14:55:33.675+01:00' org_id='oracle' comp_id='clients'
+ msg_id='dbgrmmdcrf_create_relation_full:1960:1503427940' type='NOTIFICATION' group='create'
+ level='16' host_id='crawler1' host_addr='10.0.0.3'
+ pid='11758' version='2'>
+ <txt>Create Relation ADR_CONTROL
+ </txt>
+</msg>
+<msg time='2020-02-06T14:55:33.710+01:00' org_id='oracle' comp_id='clients'
+ msg_id='dbgrmmdcrf_create_relation_full:1960:1503427940' type='NOTIFICATION' group='create'
+ level='16' host_id='crawler1' host_addr='10.0.0.3'
+ pid='11758'>
+ <txt>Create Relation ADR_INVALIDATION
+ </txt>
+</msg>
+<msg time='2020-02-06T14:55:33.739+01:00' org_id='oracle' comp_id='clients'
+ msg_id='dbgrmmdcrf_create_relation_full:1960:1503427940' type='NOTIFICATION' group='create'
+ level='16' host_id='crawler1' host_addr='10.0.0.3'
+ pid='11758'>
+ <txt>Create Relation INC_METER_IMPT_DEF
+ </txt>
+</msg>
+<msg time='2020-02-06T14:55:33.821+01:00' org_id='oracle' comp_id='clients'
+ msg_id='dbgrmmdcrf_create_relation_full:1960:1503427940' type='NOTIFICATION' group='create'
+ level='16' host_id='crawler1' host_addr='10.0.0.3'
+ pid='11758'>
+ <txt>Create Relation INC_METER_PK_IMPTS
+ </txt>
+</msg>
+<msg time='2020-02-06T14:55:33.867+01:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='crawler1'
+ host_addr='10.0.0.3' pid='11758'>
+ <txt>SSL client: Server DN in certificate does not match with the DN specified in the SECURITY parameter
+ </txt>
+</msg>
+<msg time='2020-02-06T14:56:10.532+01:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='crawler1'
+ host_addr='10.0.0.3' pid='11757'>
+ <txt>SSL client: Server DN in certificate does not match with the DN specified in the SECURITY parameter
+ </txt>
+</msg>
+<msg time='2020-02-06T14:57:50.694+01:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='crawler1'
+ host_addr='10.0.0.3' pid='11758'>
+ <txt>SSL client: Server DN in certificate does not match with the DN specified in the SECURITY parameter
+ </txt>
+</msg>
+<msg time='2020-02-06T15:00:48.503+01:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='crawler1'
+ host_addr='10.0.0.3' pid='11756'>
+ <txt>SSL client: Server DN in certificate does not match with the DN specified in the SECURITY parameter
+ </txt>
+</msg>
+<msg time='2020-02-06T15:03:17.885+01:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='crawler1'
+ host_addr='10.0.0.3' pid='11757'>
+ <txt>SSL client: Server DN in certificate does not match with the DN specified in the SECURITY parameter
+ </txt>
+</msg>
+<msg time='2020-02-06T15:10:28.936+01:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='crawler1'
+ host_addr='10.0.0.3' pid='11756'>
+ <txt>SSL client: Server DN in certificate does not match with the DN specified in the SECURITY parameter
+ </txt>
+</msg>
+<msg time='2020-02-06T15:11:58.043+01:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='crawler1'
+ host_addr='10.0.0.3' pid='14528'>
+ <txt>SSL client: Server DN in certificate does not match with the DN specified in the SECURITY parameter
+ </txt>
+</msg>
+<msg time='2020-02-06T15:12:34.922+01:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='crawler1'
+ host_addr='10.0.0.3' pid='11758'>
+ <txt>SSL client: Server DN in certificate does not match with the DN specified in the SECURITY parameter
+ </txt>
+</msg>

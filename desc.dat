@@ -1,0 +1,12 @@
+ Name                                      Null?    Type
+ ----------------------------------------- -------- ----------------------------
+ MAIN                                      NOT NULL VARCHAR2(2000)
+ KEYS                                               VARCHAR2(400)
+ STAMP                                              TIMESTAMP(6)
+
+ Name                                      Null?    Type
+ ----------------------------------------- -------- ----------------------------
+ KEY                                       NOT NULL VARCHAR2(40)
+ STAMP                                     NOT NULL TIMESTAMP(6)
+ BLOB                                      NOT NULL BLOB
+
